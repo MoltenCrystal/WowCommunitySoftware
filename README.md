@@ -1,3 +1,4 @@
+![alt text](https://blz-contentstack-images.akamaized.net/v3/assets/blt3452e3b114fab0cd/blt560a8bc04872ac88/660eea0f4db0ee7485fe17bb/logo-1.png)
 # WOW COMMUNITY CORE
 ## REQUIRED SOFTWARE
 
