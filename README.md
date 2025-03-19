@@ -1,7 +1,7 @@
 # WOW COMMUNITY CORE
 ## REQUIRED SOFTWARE
 
-Extract and install all software in the numeric order.
+Always make sure to download everything the latest release.
 
 ## INSTALLATION
 1. Extract and install 01_7z2409-x64.zip
